@@ -1,0 +1,25 @@
+{
+  "name": "react-scrollbar-size",
+  "author": "jfo84",
+  "version": "2.3.0",
+  "description": "React component to calculate the size of browser scrollbars",
+  "main": "./index.js",
+  "keywords": [
+    "react",
+    "scrollbar"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jfo84/react-scrollbar-size.git"
+  },
+  "license": "MIT",
+  "peerDependencies": {
+    "react": "^15.3.0 || ^16.0.0"
+  },
+  "dependencies": {
+    "babel-runtime": "^6.26.0",
+    "prop-types": "^15.6.0",
+    "react-event-listener": "^0.6.2",
+    "stifle": "^1.0.2"
+  }
+}
